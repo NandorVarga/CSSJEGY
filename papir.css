@@ -9,9 +9,13 @@ a:active {color:#ffffff;}
 }
 table {
     width: 670px;
-position: absolute;
 margin: 0 auto 0 auto;
 }
  th {
     text-align: center;
 }
+#Cai {
+   margin: 0 auto 0 auto;
+
+}
+#helyettes {}
