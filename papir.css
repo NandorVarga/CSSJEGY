@@ -1,3 +1,17 @@
 body {
     background-color: #999999;
+color: black;
+a:link {color:#ffffff;}      
+a:visited {color:#ffffff;}  
+a:hover {color:#ffffff;}  
+a:active {color:#ffffff;}  
+
+}
+table {
+    width: 670px;
+position: absolute;
+margin: 0 auto 0 auto;
+}
+ th {
+    text-align: center;
 }
