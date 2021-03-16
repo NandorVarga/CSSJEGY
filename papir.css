@@ -9,13 +9,12 @@ a:active {color:#ffffff;}
 }
 table {
     width: 670px;
-margin: 0 auto 0 auto;
+background-color: cornsilk;
 }
  th {
     text-align: center;
+background-color: darkgreen;
 }
 #Cai {
    margin: 0 auto 0 auto;
-
 }
-#helyettes {}
